@@ -91,8 +91,6 @@ ai-workload-audit          prompt injection surface, tool trust, data paths, ent
 agent-pipeline-hardening   MCP servers, agent tooling, the LLM to production wiring
 ```
 
-**[exorr.tech](https://www.exorr.tech)** · [x/exorrtech](https://x.com/exorrtech) · [ops@exorr.tech](mailto:ops@exorr.tech)
-
 ```console
 $ echo "the void secures"
 the void secures
