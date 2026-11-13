@@ -4,7 +4,6 @@
 
 ### Azure & AI Security Engineering
 
-**[exorr.tech](https://www.exorr.tech)**
 
 ```console
 $ whoami
@@ -82,13 +81,7 @@ Currently researching AI agent attack chains, Azure lateral movement, and LLM ja
 **Systems:** Linux daily driver, hardened terminals, KVM, network monitoring
 **Code:** Python, Bash, C
 
-## 📜 Certifications
 
-`SC-500` Cloud & AI Security Engineer Associate · `ISC2 CC` · `MS-900`
-
-## 📡 Work With Me
-
-Fixed scope, fixed price, findings reproduced before delivery. No discovery phases that exist to bill hours.
 
 ```console
 $ ./exorr --services
